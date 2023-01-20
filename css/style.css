@@ -1,0 +1,29 @@
+body{
+  background-color: black !important;
+}
+
+#products{
+  background-color: #e6e6e6;}
+
+#contact{
+    background-color:#e6e6e6;
+  }
+
+#about{
+  background-color: white;}
+
+footer{
+  background-color: black;
+  color: white
+}
+
+  /* for the Samsung Galaxy S8 or other very small screens*/
+@media screen and (max-width: 375px) {
+  #search{
+    width: 75%;}
+    }
+
+.ad{
+  padding: 0rem 1rem 1rem 1rem;
+}
+
